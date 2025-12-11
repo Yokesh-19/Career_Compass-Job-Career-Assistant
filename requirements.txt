@@ -1,0 +1,11 @@
+streamlit
+langchain
+google-generativeai
+langchain-google-genai
+edge-tts
+SpeechRecognition
+python-dotenv
+pdfplumber
+plotly
+langgraph
+reportlab
