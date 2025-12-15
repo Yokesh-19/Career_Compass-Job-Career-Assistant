@@ -1,0 +1,44 @@
+[
+  {
+    "date": "2025-12-13T22:02:09",
+    "role": "Software Engineer",
+    "overall_score": 78,
+    "job_match_score": 9.2,
+    "extra": {
+      "skills_to_improve": [
+        "APIs",
+        "Object-Oriented Programming (OOP) - While implied, explicitly mentioning or demonstrating OOP principles in projects would be beneficial.",
+        "AWS Cloud Computing - Deeper dive into specific services and applications."
+      ],
+      "match_label": "Strong Match"
+    }
+  },
+  {
+    "date": "2025-12-13T21:23:32",
+    "role": "ASE",
+    "overall_score": 78,
+    "job_match_score": 3.5,
+    "extra": {
+      "skills_to_improve": [
+        "AWS",
+        "Postman",
+        "MongoDB"
+      ],
+      "match_label": "Weak Match"
+    }
+  },
+  {
+    "date": "2025-12-13T21:12:24",
+    "role": "Software Engineer",
+    "overall_score": 75,
+    "job_match_score": 7.1,
+    "extra": {
+      "skills_to_improve": [
+        "AWS",
+        "Postman",
+        "MongoDB"
+      ],
+      "match_label": "Moderate Match"
+    }
+  }
+]
