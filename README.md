@@ -1,5 +1,5 @@
 
-# 🤖 AI Mock Interview App
+# 🤖 AI Resume Analyzer 
 
 This is an AI-powered mock interview application built with **Streamlit**. It allows you to get interviewed by an AI for your desired job role using voice input and provides interactive interview sessions.
 
@@ -83,5 +83,6 @@ streamlit run Home.py
 This project is open-source and free to use.
 
 ---
+
 
 ✨ Happy Interviewing!
